@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listes", "Listes\Listes.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TexteEnCouleur", "TexteEnCouleur\TexteEnCouleur.csproj", "{956808AC-2380-4404-A98E-B2392DEB9209}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollBarTest", "ScrollBarTest\ScrollBarTest.csproj", "{976CB7FB-9431-4D7D-B675-440D02BADE23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{956808AC-2380-4404-A98E-B2392DEB9209}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{956808AC-2380-4404-A98E-B2392DEB9209}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{956808AC-2380-4404-A98E-B2392DEB9209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976CB7FB-9431-4D7D-B675-440D02BADE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976CB7FB-9431-4D7D-B675-440D02BADE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976CB7FB-9431-4D7D-B675-440D02BADE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976CB7FB-9431-4D7D-B675-440D02BADE23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
