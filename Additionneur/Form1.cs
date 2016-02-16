@@ -21,16 +21,14 @@ namespace Additionneur
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text += "1+";
-            somme += 1;
+            Button b = (Button)sender;
+
+            textBox1.Text += b.Text + "+";
+            somme += Convert.ToInt32(b.Text);
            
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            textBox1.Text += "2+";
-            somme += 2;
-        }
+        
 
         private void button3_Click(object sender, EventArgs e)
         {
